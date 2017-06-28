@@ -48,7 +48,7 @@ Unit 3 Slides: BDK12-3.pptx
 
 Unit 3 Exercise: BDK12\_Exercise02.docx (in BDK12\_exercises.zip)
 
-Unit 3 Exercise: Read the blog post: Ontological Annotation of Data (http://ontogenesis.knowledgeblog.org/50) and complete BDK12\_Exercise03.docx
+Unit 3 Exercise: Read the blog post: [Ontological Annotation of Data](http://ontogenesis.knowledgeblog.org/50) and complete BDK12\_Exercise03.docx
 
 ### Module Supplemental Materials
 
