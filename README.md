@@ -32,13 +32,21 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK12-1.pptx
 
+Unit 1 Audio: BDK12-1.mp3 - Full lecture, Audio File - Individual Slides
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK12-1/presentation_html5.html)
+
 ### Unit 2: File and Directory Naming
 
 **Description:** This unit describes best practices for digital file and directory naming.
 
 Unit 2 Slides: BDK12-2.pptx
 
+Unit 2 Audio: BDK12-2.mp3 - Full lecture, Audio File - Individual Slides
+
 Unit 1 & 2 Exercise: BDK12\_Exercise01.docx
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK12-2/presentation_html5.html)
 
 ### Unit 3: Annotating and Curating Data
 
@@ -46,9 +54,13 @@ Unit 1 & 2 Exercise: BDK12\_Exercise01.docx
 
 Unit 3 Slides: BDK12-3.pptx
 
+Unit 3 Audio: BDK12-3.mp3 - Full lecture, Audio File - Individual Slides
+
 Unit 3 Exercise: BDK12\_Exercise02.docx (in BDK12\_exercises.zip)
 
 Unit 3 Exercise: Read the blog post: [Ontological Annotation of Data](http://ontogenesis.knowledgeblog.org/50) and complete BDK12\_Exercise03.docx
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK12-3/presentation_html5.html)
 
 ### Module Supplemental Materials
 
